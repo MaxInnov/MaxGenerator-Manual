@@ -1,3 +1,6 @@
+![Logo MaxInnov](https://s3.ieqiguatemi.maxinnov.com.br/maxinnov/MaxInnov/logo_dark.png?)
+
+
 # Manual de Uso: Gerador de DNS MaxInnov e Integração com Cloudflare
 
 ## Introdução
